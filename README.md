@@ -10,7 +10,7 @@ Random Restaurant Finder is a web application that helps you find a random resta
 
 ## Demo
 
-You can access the live demo of the application [here]([https://your-demo-link.com](https://randomrestaurant-dbd136550dc3.herokuapp.com/)).
+You can access the live demo of the application [here](https://randomrestaurant-dbd136550dc3.herokuapp.com/).
 
 ## Getting Started
 
