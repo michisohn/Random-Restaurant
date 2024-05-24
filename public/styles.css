@@ -45,12 +45,12 @@ h1 {
 /* Restaurant info styling including hovering */
 #restaurant-info {
   margin-top: 20px;
-  color: white;
+  color: blue;
   font-size: 1.5em;
 }
 
 #restaurant-info a {
-  color: white;
+  color: blue;
   text-decoration: none;
 }
 
