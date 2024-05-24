@@ -29,3 +29,21 @@ Follow these instructions to set up and run the project locally.
    git clone https://github.com/your-username/random-restaurant-finder.git
    cd random-restaurant-finder
 
+2. Install the dependencies:
+   ```bash
+   npm install
+
+3. Create a .env file in the root directory and add your Yelp API key:
+   ```bash
+   YELP_API_KEY=your_yelp_api_key_here
+
+### Running the Application
+1. Start the server
+   ```bash
+   node server.js
+2. Open browser and navigate to
+   ```txt
+    http://localhost:3000
+
+   
+
