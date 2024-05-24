@@ -44,6 +44,3 @@ Follow these instructions to set up and run the project locally.
 2. Open browser and navigate to
    ```txt
     http://localhost:3000
-
-   
-
