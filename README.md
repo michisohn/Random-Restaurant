@@ -1,5 +1,7 @@
 # Random Restaurant
 
+Can't decide where to go for dinner? Random Restaurant got you covered!
+
 Random Restaurant Finder is a web application that helps you find a random restaurant near your current location. This application uses the Yelp API to fetch restaurant data and provides a link to the selected restaurant's website.
 
 ## Features
